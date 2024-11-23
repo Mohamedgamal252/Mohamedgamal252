@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Gamal 
-- 👀 I’m interested in Embedded Systems 
-- 🌱 I’m currently learning embedded systems software  
+- 👀 I’m interested in Data Analysis  
+- 🌱 I’m currently learning Data Analysis   
 - You can reach me on email mohamedgee25@gmail.com
 
 <!---
